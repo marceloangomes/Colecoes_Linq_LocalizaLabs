@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\bin\Debug\net6.0\Colecoes_Linq.exe
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\bin\Debug\net6.0\Colecoes_Linq.deps.json
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\bin\Debug\net6.0\Colecoes_Linq.runtimeconfig.json
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\bin\Debug\net6.0\Colecoes_Linq.dll
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\bin\Debug\net6.0\ref\Colecoes_Linq.dll
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\bin\Debug\net6.0\Colecoes_Linq.pdb
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\Colecoes_Linq.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\Colecoes_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\Colecoes_Linq.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\Colecoes_Linq.AssemblyInfo.cs
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\Colecoes_Linq.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\Colecoes_Linq.dll
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\ref\Colecoes_Linq.dll
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\Colecoes_Linq.pdb
+C:\Users\marce\source\repos\Colecoes_Linq\Colecoes_Linq\obj\Debug\net6.0\Colecoes_Linq.genruntimeconfig.cache
