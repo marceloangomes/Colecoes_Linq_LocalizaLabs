@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marce\\.nuget\\packages\\": {}
+    "C:\\Users\\marcelo.gomes01\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\source\\repos\\Colecoes_Linq\\Colecoes_Linq\\Colecoes_Linq.csproj",
+      "projectUniqueName": "C:\\Users\\marcelo.gomes01\\source\\repos\\Colecoes_Linq_LocalizaLabs\\Colecoes_Linq\\Colecoes_Linq.csproj",
       "projectName": "Colecoes_Linq",
-      "projectPath": "C:\\Users\\marce\\source\\repos\\Colecoes_Linq\\Colecoes_Linq\\Colecoes_Linq.csproj",
-      "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\source\\repos\\Colecoes_Linq\\Colecoes_Linq\\obj\\",
+      "projectPath": "C:\\Users\\marcelo.gomes01\\source\\repos\\Colecoes_Linq_LocalizaLabs\\Colecoes_Linq\\Colecoes_Linq.csproj",
+      "packagesPath": "C:\\Users\\marcelo.gomes01\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcelo.gomes01\\source\\repos\\Colecoes_Linq_LocalizaLabs\\Colecoes_Linq\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marcelo.gomes01\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
