@@ -64,7 +64,7 @@ else{
     System.Console.WriteLine("Não encontrei o valor: {0}",valorProcurado);
 }
 
-System.Console.WriteLine("Verifica se todos os elemento são maior que o valor passado");
+System.Console.WriteLine("Verifica se todos os elementos são maior que o valor passado");
 var valorComparado = 100;
 bool maior = op.TodosMaior(array,valorComparado);
 if(maior){
@@ -74,6 +74,16 @@ else{
     System.Console.WriteLine("Encontrei valores menores que: {0}",valorComparado);
 }
 
+int[] arrayNumeros = new int[5] {1,4,8,15,29};
 
+var numerosParesQuery = 
+                from num in arrayNumeros
+                where num % 2 == 0
+                orderby num
+                select num;
 
+var numerosParesMetodo = arrayNumeros.Where(x=> x % 2 == 0).OrderBy(x => x).ToList();
+
+System.Console.WriteLine("Numeros Pares Query: " + string.Join(", ",numerosParesQuery));
+System.Console.WriteLine("Números Pares Metodo: " + string.Join(", ", numerosParesMetodo));
 
