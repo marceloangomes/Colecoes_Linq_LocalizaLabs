@@ -87,3 +87,4 @@ var numerosParesMetodo = arrayNumeros.Where(x=> x % 2 == 0).OrderBy(x => x).ToLi
 System.Console.WriteLine("Numeros Pares Query: " + string.Join(", ",numerosParesQuery));
 System.Console.WriteLine("Números Pares Metodo: " + string.Join(", ", numerosParesMetodo));
 
+var valoresMinimo = arrayNumeros.Min();
